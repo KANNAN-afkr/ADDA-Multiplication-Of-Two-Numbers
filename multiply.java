@@ -10,6 +10,7 @@ public static void main(String[] args) {
     int b = sc.nextInt();
     int res = a*b;
     System.out.print("The Result Of Multiplication Of "+a+" And "+b+" Is: "+res);
+    System.out.println("Final Commit");
 }
 
 }
